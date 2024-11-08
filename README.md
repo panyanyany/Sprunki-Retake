@@ -1,13 +1,19 @@
 # Sprunki Retake
 ![logo-square](https://github.com/user-attachments/assets/6e33b5dd-f331-445a-b225-31b4cb345c0c)
 
-Step into the shadows with [Sprunki Retake](https://sprunki-incredibox.org/game/sprunki-retake), a bold reimagining of the classic Incredibox experience. This innovative horror mod transforms the familiar rhythm-based gameplay into an atmospheric journey through darkness and sound. Players will discover a completely new way to experience music creation, where every beat echoes with supernatural intensity.
+Step into the shadows with Sprunki Retake, a bold reimagining of the classic Incredibox experience. This innovative horror mod transforms the familiar rhythm-based gameplay into an atmospheric journey through darkness and sound. Players will discover a completely new way to experience music creation, where every beat echoes with supernatural intensity.
+
+## Play Now
+Ready to begin your dark musical journey? Choose your preferred platform:
+- 🎮 [Play on Sprunki Official](https://sprunki-incredibox.org/game/sprunki-retake)
+- 🎵 [Play on Abgerny](https://abgerny.org/game/sprunki-retake)
+- 🎹 [Play on Sprunki Mustard](https://sprunkimustard.org/game/sprunki-retake)
 
 ## About Sprunki Retake
-[Sprunki Retake](https://abgerny.org/game/sprunki-retake) takes you beyond the ordinary, where familiar melodies give way to haunting harmonies. This unique mod crafts an immersive environment where each sound carries the weight of mystery, and every visual element tells a story of its own. The game preserves the core music-mixing mechanics while introducing an entirely new aesthetic that will captivate both horror enthusiasts and music lovers.
+Sprunki Retake takes you beyond the ordinary, where familiar melodies give way to haunting harmonies. This unique mod crafts an immersive environment where each sound carries the weight of mystery, and every visual element tells a story of its own. The game preserves the core music-mixing mechanics while introducing an entirely new aesthetic that will captivate both horror enthusiasts and music lovers.
 
 ## Getting Started
-1. **Launch**: Enter the shadowy realm of [Sprunki Retake](https://sprunkimustard.org/game/sprunki-retake), where darkness sets the stage for your musical journey.
+1. **Launch**: Enter the shadowy realm of Sprunki Retake, where darkness sets the stage for your musical journey.
 2. **Select**: Pick from a roster of transformed characters, each bringing their own supernatural sounds to your mix.
 3. **Mix**: Blend together spectral vocals, otherworldly beats, and haunting melodies to craft your unique composition.
 4. **Discover**: Uncover hidden combinations that unleash mysterious animations and reveal the secrets within.
