@@ -1,4 +1,5 @@
 # Sprunki Retake
+![logo-square](https://github.com/user-attachments/assets/6e33b5dd-f331-445a-b225-31b4cb345c0c)
 
 Step into the shadows with [Sprunki Retake](https://sprunki-incredibox.org/game/sprunki-retake), a bold reimagining of the classic Incredibox experience. This innovative horror mod transforms the familiar rhythm-based gameplay into an atmospheric journey through darkness and sound. Players will discover a completely new way to experience music creation, where every beat echoes with supernatural intensity.
 
