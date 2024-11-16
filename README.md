@@ -9,6 +9,9 @@ Ready to begin your dark musical journey? Choose your preferred platform:
 - 🎵 [Play on Abgerny](https://abgerny.org/game/sprunki-retake)
 - 🎹 [Play on Sprunki Mustard](https://sprunkimustard.org/game/sprunki-retake)
 
+## Media Report
+[Sprunki Retake: A Dark Twist on Musical Creativity](https://www.stylezeitgeist.com/forums/forum/forums/designers-and-their-work/1161290-sprunki-retake-a-dark-twist-on-musical-creativity)
+
 ## About Sprunki Retake
 Sprunki Retake takes you beyond the ordinary, where familiar melodies give way to haunting harmonies. This unique mod crafts an immersive environment where each sound carries the weight of mystery, and every visual element tells a story of its own. The game preserves the core music-mixing mechanics while introducing an entirely new aesthetic that will captivate both horror enthusiasts and music lovers.
 
